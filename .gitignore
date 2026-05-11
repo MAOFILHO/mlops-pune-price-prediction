@@ -45,3 +45,4 @@ catboost_info/
 .ipynb_checkpoints/
 /model_features.csv
 /model_target.npy
+/Pune Real Estate Data.xlsx
